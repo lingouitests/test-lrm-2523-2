@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>2.0</value>
+    </resheader>
+    
+    <!-- Simple string resource -->
+    <data name="WelcomeMessage" xml:space="preserve">
+        <value>[Ŵéļçöɱé ţö öûŕ åþþļîçåţîöñ!-------------- П國カ내]</value>
+    </data>
+
+    <!-- Resource with comment -->
+    <data name="UserNamePrompt" xml:space="preserve">
+        <value>[Þļéåšé éñţéŕ ýöûŕ ûšéŕñåɱé------------- П國カ내]</value>
+        <comment>Username prompt shown during login</comment>
+    </data>
+
+    <!-- Resource with placeholders -->
+    <data name="GreetingMessage" xml:space="preserve">
+        <value>[Ĥéļļö, {0}! Ýöûŕ åççöûñţ ŵåš çŕéåţéð öñ {1}------------------ П國カ내]</value>
+        <comment>Greeting message with placeholders for name and date</comment>
+    </data>
+
+    <!-- Resource with escaped characters -->
+    <data name="NavigationBack" xml:space="preserve">
+        <value>[&lt; Ɓåçķ----- П國カ내]</value>
+    </data>
+
+    <!-- Resource with multiline text -->
+    <data name="TermsOfService" xml:space="preserve">
+        <value>[Ţĥîš îš å ɱûļţî-ļîñé
+        ŕéšöûŕçé šþåññîñĝ
+        ɱûļţîþļé ļîñéš.--------------------- П國カ내]</value>
+    </data>
+</root>
